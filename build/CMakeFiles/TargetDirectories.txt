@@ -1,0 +1,3 @@
+C:/Users/Apeman/Desktop/libre-spice/build/CMakeFiles/Libre-Spice.dir
+C:/Users/Apeman/Desktop/libre-spice/build/CMakeFiles/edit_cache.dir
+C:/Users/Apeman/Desktop/libre-spice/build/CMakeFiles/rebuild_cache.dir
